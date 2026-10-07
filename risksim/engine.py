@@ -95,7 +95,7 @@ def drivers(a: Answer, top: int = 5) -> dict:
     return out
 
 
-def compare(scenarios: dict[str, Project], n_sims: int = 5000) -> pd.DataFrame:
+def compare(scenarios: dict[str, Project], n_sims: int | None = None) -> pd.DataFrame:
     rows = []
     for name, p in scenarios.items():
         a = analyse(p, n_sims)

@@ -34,7 +34,7 @@ Most budgets and dates are single numbers: add up the estimates, put 10% on top,
 | A best guess plus low/high for cost and days, and what each task depends on. Import from Excel or type in the browser | What could happen, how likely, what it costs in money and days, which task it hits | A plain-English answer, then budget, timeline, joint confidence, risk ranking and contingency |
 
 Then:
-- **Scenarios** save versions of the project and compare them. "Mitigating the two biggest risks saves £4,529 at P80 and 4 working days."
+- **Scenarios** save versions of the project and compare them. "Mitigating the two biggest risks saves £4,470 at P80 and 4 working days."
 - **Report & export** produces a one-page Word board report, the full analysis in Excel, and a project file to reopen later.
 
 | | |
