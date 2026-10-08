@@ -1,5 +1,7 @@
 # RiskSim
 
+**▶ Live app: [risksim-dsmk.streamlit.app](https://risksim-dsmk.streamlit.app)** · no install needed
+
 **Know your budget and delivery date confidence *before* you commit to them.**
 
 RiskSim is a browser app for project managers, PMOs and bid teams. List your tasks, add your risks, and in minutes it tells you:
